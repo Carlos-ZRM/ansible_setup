@@ -1,0 +1,11 @@
+- name: Check RAM
+
+- name: Check free disk space
+
+- name: Check users
+
+- name: Check privileges of users
+
+- name: Check firewall ports with iptables
+
+- name: Check installations files and privileges

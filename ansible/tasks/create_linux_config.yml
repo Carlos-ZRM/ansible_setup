@@ -1,0 +1,12 @@
+---
+
+- name: Create directories
+
+- name: Copy installations files
+
+- name: Copy scripts
+
+- name: Untar installations files
+
+- name: Create custom bashrc vaariables
+
